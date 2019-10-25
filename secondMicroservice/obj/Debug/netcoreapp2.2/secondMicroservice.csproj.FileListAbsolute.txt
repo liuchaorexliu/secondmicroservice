@@ -1,0 +1,14 @@
+C:\GitWork\secondmicroservice\secondMicroservice\bin\Debug\netcoreapp2.2\secondMicroservice.deps.json
+C:\GitWork\secondmicroservice\secondMicroservice\bin\Debug\netcoreapp2.2\secondMicroservice.runtimeconfig.json
+C:\GitWork\secondmicroservice\secondMicroservice\bin\Debug\netcoreapp2.2\secondMicroservice.runtimeconfig.dev.json
+C:\GitWork\secondmicroservice\secondMicroservice\bin\Debug\netcoreapp2.2\secondMicroservice.dll
+C:\GitWork\secondmicroservice\secondMicroservice\bin\Debug\netcoreapp2.2\secondMicroservice.pdb
+C:\GitWork\secondmicroservice\secondMicroservice\obj\Debug\netcoreapp2.2\secondMicroservice.csprojAssemblyReference.cache
+C:\GitWork\secondmicroservice\secondMicroservice\obj\Debug\netcoreapp2.2\secondMicroservice.csproj.CoreCompileInputs.cache
+C:\GitWork\secondmicroservice\secondMicroservice\obj\Debug\netcoreapp2.2\secondMicroservice.RazorAssemblyInfo.cache
+C:\GitWork\secondmicroservice\secondMicroservice\obj\Debug\netcoreapp2.2\secondMicroservice.RazorAssemblyInfo.cs
+C:\GitWork\secondmicroservice\secondMicroservice\obj\Debug\netcoreapp2.2\secondMicroservice.AssemblyInfoInputs.cache
+C:\GitWork\secondmicroservice\secondMicroservice\obj\Debug\netcoreapp2.2\secondMicroservice.AssemblyInfo.cs
+C:\GitWork\secondmicroservice\secondMicroservice\obj\Debug\netcoreapp2.2\secondMicroservice.RazorTargetAssemblyInfo.cache
+C:\GitWork\secondmicroservice\secondMicroservice\obj\Debug\netcoreapp2.2\secondMicroservice.dll
+C:\GitWork\secondmicroservice\secondMicroservice\obj\Debug\netcoreapp2.2\secondMicroservice.pdb
